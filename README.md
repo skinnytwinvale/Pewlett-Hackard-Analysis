@@ -255,11 +255,6 @@ ORDER BY e.emp_no;
 
 > Exported `retiring_titles.csv` Image below.
 
-**Code and Image**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Pewlett-Hackard-Analysis/blob/main/Resources/Images/2.1r.PNG?raw=true)
-
-
 
 ## Deliverable 3: A written report on the employee database analysis
 ### The analysis should contain the following:
