@@ -155,7 +155,6 @@ order by e.emp_no;
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Pewlett-Hackard-Analysis/blob/main/Resources/Images/1.1r.PNG?raw=true)
 
 3. ​***A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.**
 
